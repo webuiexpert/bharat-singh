@@ -3,7 +3,7 @@ import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import "react-tabs/style/react-tabs.css";
 import WordpressProjects from "./WordpressProjects";
 import WebflowProjects from "./WebflowProjects";
-import EmailtemplateProjects from "./EmailtemplateProjects";
+import BackendProjects from "./BackendProjectsProjects";
 import HtmlProjects from "./HtmlProjects";
 import FigmaToReact from "./FigmaToReact";
 import MarketingLandingPages from "./MarketingLandingPages";
@@ -20,11 +20,11 @@ function Skills() {
           Below are the list of few projects that will showcase my strength.
         </h4>
         <Tabs className={"mt-16"}>
-          <TabList  className={ "flex flex-wrap justify-center items-center gap-x-20 gap-y-5"}>
+          <TabList  className={ "flex flex-wrap justify-center items-center gap-x-12 gap-y-5"}>
             
             <Tab  className={ "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"}>Wordpress</Tab>
             <Tab  className={ "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"}>Webflow</Tab>
-            <Tab  className={ "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"}>Email Template</Tab>
+            <Tab  className={ "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"}>Backend Work</Tab>
             <Tab  className={ "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"}>Figma to HTML</Tab>
             <Tab  className={ "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"}>Figma to React/Tailwind</Tab>
             <Tab  className={ "text-black lg:px-8 px-4 py-2 font-bold text-center rounded-full border lg:text-[20px] text-[14px] hover:bg-[#391d5d] hover:text-white cursor-pointer"}>Marketing Landing Pages</Tab>
@@ -38,7 +38,7 @@ function Skills() {
            <WebflowProjects />
           </TabPanel>
           <TabPanel>
-           <EmailtemplateProjects />
+           <BackendProjects />
           </TabPanel>
           <TabPanel>
            <HtmlProjects />
