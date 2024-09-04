@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bharat-singh/static/css/main.261fabb4.css",
-    "main.js": "/bharat-singh/static/js/main.624013bd.js",
+    "main.js": "/bharat-singh/static/js/main.b5dc3778.js",
     "static/js/453.156b72c7.chunk.js": "/bharat-singh/static/js/453.156b72c7.chunk.js",
     "static/media/hero-img.png": "/bharat-singh/static/media/hero-img.98eeab18e4127b0e0c59.png",
     "static/media/Montserrat-VariableFont_wght.ttf": "/bharat-singh/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
@@ -9,6 +9,7 @@
     "static/media/FunnelProject8.png": "/bharat-singh/static/media/FunnelProject8.0937cab7360ca3b7fb4b.png",
     "static/media/emailTemplateproj3.png": "/bharat-singh/static/media/emailTemplateproj3.52f2109aa957911730a5.png",
     "static/media/emailTemplateproj1.png": "/bharat-singh/static/media/emailTemplateproj1.9f972f405b32eac6ca9d.png",
+    "static/media/emailTemplateproj4.png": "/bharat-singh/static/media/emailTemplateproj4.e7864dc5c3343a8cf0bb.png",
     "static/media/reactProject3.png": "/bharat-singh/static/media/reactProject3.9223316784926478dc00.png",
     "static/media/wordpress-project3.png": "/bharat-singh/static/media/wordpress-project3.613687523f0801e66813.png",
     "static/media/wordpress-project2.png": "/bharat-singh/static/media/wordpress-project2.db5c55e036febdd2ee1b.png",
@@ -41,7 +42,6 @@
     "static/media/HtmlProject3.jpg": "/bharat-singh/static/media/HtmlProject3.717def367c7b5e52df3b.jpg",
     "static/media/webflowProject5.png": "/bharat-singh/static/media/webflowProject5.3c4fd0bd28c8311077ce.png",
     "static/media/emailTemplateproj2.png": "/bharat-singh/static/media/emailTemplateproj2.2621663115e332ce3773.png",
-    "static/media/emailTemplateproj4.png": "/bharat-singh/static/media/emailTemplateproj4.f983142d821371e3539c.png",
     "static/media/testimonial-img.png": "/bharat-singh/static/media/testimonial-img.8e428fea69271dc7d8f7.png",
     "static/media/slick.svg": "/bharat-singh/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/bharat-singh/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -50,11 +50,11 @@
     "index.html": "/bharat-singh/index.html",
     "static/media/check-circle-svgrepo-com.svg": "/bharat-singh/static/media/check-circle-svgrepo-com.bea96d1448364f00cf35950c4f55e5f4.svg",
     "main.261fabb4.css.map": "/bharat-singh/static/css/main.261fabb4.css.map",
-    "main.624013bd.js.map": "/bharat-singh/static/js/main.624013bd.js.map",
+    "main.b5dc3778.js.map": "/bharat-singh/static/js/main.b5dc3778.js.map",
     "453.156b72c7.chunk.js.map": "/bharat-singh/static/js/453.156b72c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.261fabb4.css",
-    "static/js/main.624013bd.js"
+    "static/js/main.b5dc3778.js"
   ]
 }
