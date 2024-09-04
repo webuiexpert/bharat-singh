@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/bharat-singh/static/css/main.aea31d8f.css",
-    "main.js": "/bharat-singh/static/js/main.6cd7dcaa.js",
+    "main.css": "/bharat-singh/static/css/main.bdf57035.css",
+    "main.js": "/bharat-singh/static/js/main.7ac89184.js",
     "static/js/453.156b72c7.chunk.js": "/bharat-singh/static/js/453.156b72c7.chunk.js",
+    "static/media/hero-img.png": "/bharat-singh/static/media/hero-img.98eeab18e4127b0e0c59.png",
     "static/media/Montserrat-VariableFont_wght.ttf": "/bharat-singh/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
-    "static/media/hero-img.png": "/bharat-singh/static/media/hero-img.e470ea502c6f66bbf88d.png",
     "static/media/emailTemplateproj4.png": "/bharat-singh/static/media/emailTemplateproj4.3ebb2fa8cdf87bf9e30d.png",
     "static/media/emailTemplateproj2.png": "/bharat-singh/static/media/emailTemplateproj2.cdc319347c83b04e7b23.png",
     "static/media/emailTemplateproj3.png": "/bharat-singh/static/media/emailTemplateproj3.35bc8ba566461e2b4dbf.png",
@@ -49,12 +49,12 @@
     "static/media/slick.woff": "/bharat-singh/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/bharat-singh/index.html",
     "static/media/check-circle-svgrepo-com.svg": "/bharat-singh/static/media/check-circle-svgrepo-com.bea96d1448364f00cf35950c4f55e5f4.svg",
-    "main.aea31d8f.css.map": "/bharat-singh/static/css/main.aea31d8f.css.map",
-    "main.6cd7dcaa.js.map": "/bharat-singh/static/js/main.6cd7dcaa.js.map",
+    "main.bdf57035.css.map": "/bharat-singh/static/css/main.bdf57035.css.map",
+    "main.7ac89184.js.map": "/bharat-singh/static/js/main.7ac89184.js.map",
     "453.156b72c7.chunk.js.map": "/bharat-singh/static/js/453.156b72c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aea31d8f.css",
-    "static/js/main.6cd7dcaa.js"
+    "static/css/main.bdf57035.css",
+    "static/js/main.7ac89184.js"
   ]
 }
