@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bharat-singh/static/css/main.261fabb4.css",
-    "main.js": "/bharat-singh/static/js/main.b5dc3778.js",
+    "main.js": "/bharat-singh/static/js/main.353f651c.js",
     "static/js/453.156b72c7.chunk.js": "/bharat-singh/static/js/453.156b72c7.chunk.js",
     "static/media/hero-img.png": "/bharat-singh/static/media/hero-img.98eeab18e4127b0e0c59.png",
     "static/media/Montserrat-VariableFont_wght.ttf": "/bharat-singh/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
@@ -50,11 +50,11 @@
     "index.html": "/bharat-singh/index.html",
     "static/media/check-circle-svgrepo-com.svg": "/bharat-singh/static/media/check-circle-svgrepo-com.bea96d1448364f00cf35950c4f55e5f4.svg",
     "main.261fabb4.css.map": "/bharat-singh/static/css/main.261fabb4.css.map",
-    "main.b5dc3778.js.map": "/bharat-singh/static/js/main.b5dc3778.js.map",
+    "main.353f651c.js.map": "/bharat-singh/static/js/main.353f651c.js.map",
     "453.156b72c7.chunk.js.map": "/bharat-singh/static/js/453.156b72c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.261fabb4.css",
-    "static/js/main.b5dc3778.js"
+    "static/js/main.353f651c.js"
   ]
 }
