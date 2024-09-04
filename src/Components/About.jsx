@@ -45,7 +45,7 @@ tl.from(".expText", {
       I’m a front-end web developer with over 14 years of experience. I work with agencies across the globe to create high performance & rich interactive websites that work across all platforms & devices.
       </p>
       <p className="lg:text-[18px] text-[#4c4040] text-[16px] leading-[1.5em] mt-5 pr-4">
-      Although I'm very familiar with using frameworks like wordpress, Webflow, but my websites are primarily hand-coded using HTML5, CSS3, React, Tailwind CSS & JS.
+      Although I'm very familiar with using frameworks like Laravel, CI, React, Next, Webflow, but my websites are primarily hand-coded using HTML5, CSS3, Tailwind CSS & JS.
       </p>
       <p className="lg:text-[18px] text-[#4c4040] text-[16px] leading-[1.5em] mt-5 pr-4">
       With a strong emphasis on "Progressive Enhancement", I look for creative ways to push the boundaries of website front-end code without compromising on browser support and performance.

@@ -33,7 +33,7 @@ gsap.from(MainRef.current, {
     <div ref={MainRef} className="container h-full flex lg:flex-row md:flex-row items-center  flex-col-reverse lg:gap-0 gap-5 lg:px-0  md:px-8 sm:px-6 px-4">
     <div className="textSection text-white lg:text-[52px] text-[28px] font-extrabold lg:leading-[56px] lg:w-[70%] md:w-[60%] w-full flex flex-col items-start justify-center">
       <h2 className="">Hello,</h2>
-      <h2 className="">I am Deepak, </h2>
+      <h2 className="">I am Bharat, </h2>
       <h2 className="lg:w-[80%]">a Frontend Developer from India.</h2>
 
       <h5 className="lg:my-4 lg:w-[738px] lg:text-[24px] text-[18px] font-extrabold lg:leading-[1.2em]">

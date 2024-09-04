@@ -10,21 +10,21 @@ const data = [
     title: "Jeff",
     subtitle: "Marketing Director",
     ClientImg: ClientImg1,
-    reviews:"Deepak was a pleasure to work with and I will use him again-",
+    reviews:"Bharat was a pleasure to work with and I will use him again-",
     Starsimg: Stars,
   },
   {
     title: "Juan",
     subtitle: "Project Account Manager",
     ClientImg: ClientImg1,
-    reviews: "Deepak is exceptional at what he does. It was a real pleasure meeting him and working with him. I would highly recommend Deepak for Local SEO needs. We were more than pleased with the work he provided us. Looking forward to working with him again soon.",
+    reviews: "Bharat is exceptional at what he does. It was a real pleasure meeting him and working with him. I would highly recommend Bharat for Local SEO needs. We were more than pleased with the work he provided us. Looking forward to working with him again soon.",
     Starsimg: Stars,
   },
   {
     title: "Yashveer",
     subtitle: "Project Manager",
     ClientImg: ClientImg1,
-    reviews: "Deepak was very helpful and proactive in doing his job. He took initiatives and delivered really good results.",
+    reviews: "Bharat was very helpful and proactive in doing his job. He took initiatives and delivered really good results.",
     Starsimg: Stars,
   },
   {
@@ -32,7 +32,7 @@ const data = [
     subtitle: "Creative Director",
     ClientImg: ClientImg1,
     reviews:
-      "Deepak is fantastic. He took care of everything we needed. After talking to him for 15 minutes and going through his processes during our initial call, you knew that he was more than capable. His completion time and efficiency are also phenomenal. I will definitely be going back to him!",
+      "Bharat is fantastic. He took care of everything we needed. After talking to him for 15 minutes and going through his processes during our initial call, you knew that he was more than capable. His completion time and efficiency are also phenomenal. I will definitely be going back to him!",
     Starsimg: Stars,
   },
   {
@@ -40,7 +40,7 @@ const data = [
     subtitle: "Ecommerce Director",
     ClientImg: ClientImg1,
     reviews:
-      "Deepak was extremely knowledgeable and professional. He was thorough in his communication, easy to work with, and great with His management of all deliverables.",
+      "Bharat was extremely knowledgeable and professional. He was thorough in his communication, easy to work with, and great with His management of all deliverables.",
     Starsimg: Stars,
   },
 ];

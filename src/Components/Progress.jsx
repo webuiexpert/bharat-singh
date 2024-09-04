@@ -65,7 +65,7 @@ function Progress() {
         <div className="space-y-3 flex-1">
           <div className="flex items-center">
             <h4 className="font-bold  text-[18px] mr-auto text-black flex items-center">
-            Tailwind and Bootstrap </h4>
+            React Js, Next Js, Tailwind CSS and Bootstrap </h4>
           </div>
           <div className="overflow-hidden bg-blue-50 h-2 rounded-full w-full">
             <span className="h-full bg-custom-pattern w-full block rounded-full" style={{width: '85%'}} />
@@ -79,7 +79,7 @@ function Progress() {
         <div className="space-y-3 flex-1">
           <div className="flex items-center">
             <h4 className="font-bold  text-[18px] mr-auto text-black flex items-center">
-            PHP, Laravel, Codeigniter, NextJs, MongoDB, React Js, Next Js, MySQL</h4>
+            PHP, Laravel, Codeigniter, MySQL, MongoDB</h4>
           </div>
           <div className="overflow-hidden bg-blue-50 h-2 rounded-full w-full">
             <span className="h-full bg-custom-pattern w-full block rounded-full" style={{width: '85%'}} />

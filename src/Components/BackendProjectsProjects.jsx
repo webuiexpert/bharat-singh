@@ -16,7 +16,7 @@ const backendprojectdata = [
        },
        {
         "projectImage": emailProject2,
-        "title": "TA platform for learning code. Users can practice the code by using this platform.",
+        "title": "A platform for learning code. Users can practice the code by using this platform.",
         "tools": "Tech: Laravel, MySQL",
         "link": "https://app.vivocoder.com/"
        },
