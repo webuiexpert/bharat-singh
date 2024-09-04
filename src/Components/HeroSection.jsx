@@ -29,7 +29,7 @@ gsap.from(MainRef.current, {
 })
 
   return (
-    <div className="herosection w-full lg:h-[calc(92vh-96px)] h-auto py-10 bg-[#4b006d] overflow-hidden ">
+    <div className="herosection w-full lg:h-[calc(92vh-96px)] h-auto py-10 bg-[#00246d] overflow-hidden ">
     <div ref={MainRef} className="container h-full flex lg:flex-row md:flex-row items-center  flex-col-reverse lg:gap-0 gap-5 lg:px-0  md:px-8 sm:px-6 px-4">
     <div className="textSection text-white lg:text-[52px] text-[28px] font-extrabold lg:leading-[56px] lg:w-[70%] md:w-[60%] w-full flex flex-col items-start justify-center">
       <h2 className="">Hello,</h2>

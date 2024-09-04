@@ -32,14 +32,14 @@ function ContactSection() {
   };
 
   return (
-    <div id="contact" className="w-full h-auto bg-[#391d5d]">
+    <div id="contact" className="w-full h-auto bg-[#00246d]">
       <div className="max-w-[1320px] mx-auto lg:py-20 py-10 lg:px-0 md:px-8 sm:px-6 px-4 flex flex-col justify-center items-center">
         <div className="lg:w-[80%] mx-auto">
           <h2 className="lg:text-3xl text-[20px] leading-[1.4em] font-medium text-white text-center">
             Don't Wait Any Longer For Higher Rankings. Get Started today!
           </h2>
           <p className="lg:text-[18px] lg:leading-[1.8em] text-[16px] leading-[1.2em] text-white text-center mt-3">
-            You have any questions? I would love to hear from you. Send me a message and I will respond as soon as possible or just email me directly at naveenrdesigns@gmail.com
+            You have any questions? I would love to hear from you. Send me a message and I will respond as soon as possible or just email me directly at webuiexpert929@gmail.com
           </p>
           <form ref={form} onSubmit={sendEmail} className="flex flex-col gap-10 mt-10 items-center justify-between w-full bg-transparent" action="">
             <div className="inputBox1 flex lg:flex-row flex-col justify-between gap-10 w-full">
