@@ -44,7 +44,7 @@ function BackendProjectsProjects() {
   return (
     <section className="text-gray-600 body-font">
       <div className="container">
-        <div className="grid lg:grid-cols-3 grid-cols-2 gap-8">
+        <div className="grid lg:grid-cols-3 grid-cols-2 lg:gap-8 gap-3">
           
           {
             backendprojectdata.map((wPItem, index) => (
