@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bharat-singh/static/css/main.07f07b80.css",
-    "main.js": "/bharat-singh/static/js/main.059871be.js",
+    "main.css": "/bharat-singh/static/css/main.cabfdfe5.css",
+    "main.js": "/bharat-singh/static/js/main.7364046b.js",
     "static/js/453.156b72c7.chunk.js": "/bharat-singh/static/js/453.156b72c7.chunk.js",
     "static/media/hero-img.png": "/bharat-singh/static/media/hero-img.98eeab18e4127b0e0c59.png",
     "static/media/Montserrat-VariableFont_wght.ttf": "/bharat-singh/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
@@ -54,12 +54,12 @@
     "static/media/slick.woff": "/bharat-singh/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/bharat-singh/index.html",
     "static/media/check-circle-svgrepo-com.svg": "/bharat-singh/static/media/check-circle-svgrepo-com.bea96d1448364f00cf35950c4f55e5f4.svg",
-    "main.07f07b80.css.map": "/bharat-singh/static/css/main.07f07b80.css.map",
-    "main.059871be.js.map": "/bharat-singh/static/js/main.059871be.js.map",
+    "main.cabfdfe5.css.map": "/bharat-singh/static/css/main.cabfdfe5.css.map",
+    "main.7364046b.js.map": "/bharat-singh/static/js/main.7364046b.js.map",
     "453.156b72c7.chunk.js.map": "/bharat-singh/static/js/453.156b72c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07f07b80.css",
-    "static/js/main.059871be.js"
+    "static/css/main.cabfdfe5.css",
+    "static/js/main.7364046b.js"
   ]
 }
