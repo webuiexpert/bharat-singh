@@ -49,12 +49,12 @@ const webflowdata = [
            {
             "projectImage": webflowProject7,
             "tools": "Figma, HTML, CSS, Webflow.",
-            "link": "https://www.pennyfinance.com.au/"
+            "link": "https://www.lawfty.com//"
            },
            {
             "projectImage": webflowProject8,
             "tools": "Figma, HTML, CSS, Webflow.",
-            "link": "https://www.closercartel.com/"
+            "link": "https://capital.club/"
            },
            {
             "projectImage": webflowProject9,
@@ -64,12 +64,12 @@ const webflowdata = [
            {
             "projectImage": webflowProject10,
             "tools": "Figma, HTML, CSS, Webflow.",
-            "link": "https://capital.club/"
+            "link": "https://www.closercartel.com/"
            },
            {
             "projectImage": webflowProject11,
             "tools": "Figma, HTML, CSS, Webflow.",
-            "link": "https://www.lawfty.com/"
+            "link": "https://www.pennyfinance.com.au/"
            },
 
 
